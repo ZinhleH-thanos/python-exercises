@@ -1,4 +1,4 @@
-🐍 Beginner Python Exercises – Quick Reference Cheat Sheet
+# 🐍 Beginner Python Exercises – Quick Reference Cheat Sheet
 🔹 find_min_max(numbers)
 
 - Use min() and max() to get smallest/largest.
@@ -39,7 +39,7 @@
 
 - .greet() → return f"Hello, my name is {self.name}"
 
-🧩 General Tips
+## 🧩 General Tips
 
 - Always read docstrings carefully (they tell you input/output).
 
