@@ -1,5 +1,5 @@
 # 🐍 Beginner Python Exercises – Quick Reference Cheat Sheet
-🔹 find_min_max(numbers)
+**🔹 find_min_max(numbers)**
 
 - Use min() and max() to get smallest/largest.
 
@@ -7,7 +7,7 @@
 
 - Return both as a tuple → (min, max)
 
-🔹 count_odd(numbers)
+**🔹 count_odd(numbers)**
 
 - Use % to test odd numbers → num % 2 != 0
 
@@ -15,7 +15,7 @@
 
 - Loop and increment when condition is true.
 
-🔹 is_palindrome(s)
+**🔹 is_palindrome(s)**
 
 - Convert to lowercase → .lower()
 
@@ -23,7 +23,7 @@
 
 - Compare with reverse → s == s[::-1]
 
-🔹 factorial(n)
+**🔹 factorial(n)**
 
 - Handle base case → if n == 0: return 1
 
@@ -31,7 +31,7 @@
 
 - Keep a running result → result *= i
 
-🔹 Student class
+**🔹 Student class**
 
 - __init__ sets up self.name and self.grades
 
